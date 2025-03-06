@@ -1,0 +1,6 @@
+# Virtual environment
+myenv/
+
+# Environment variables and secrets
+.env
+.DS_Store
